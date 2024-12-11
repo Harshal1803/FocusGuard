@@ -1,5 +1,5 @@
 # **Focus Guard**
-Focus Guard is a simple productivity tool that helps you track your focus level by monitoring your face movement using **OpenCV***. It alerts you if you lose focus by stepping out of the designated focus area.
+Focus Guard is a simple productivity tool that helps you track your focus level by monitoring your face movement using **OpenCV**. It alerts you if you lose focus by stepping out of the designated focus area.
 ### Features
 1. Tracks face position in real time using a webcam.
 2. Displays total focus time and alerts you if you step out of the focus area.
